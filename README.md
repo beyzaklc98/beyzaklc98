@@ -3,7 +3,7 @@
 
 - :blossom: I’m currently working on coding and testing
 - :hibiscus: I’m currently learning IT World
-- :computer: Ask me about Java, PostgreSql, Lambda, HTML-Css, JDBC, Selenium, STLC, SDLC, API, Jenkins, Cucumber...
+- :computer: Ask me about Java, PostgreSql, Lambda, HTML-Css, JDBC, Selenium, STLC, SDLC, API, Jenkins, Cucumber,Postman...
 - :love_letter: How to reach me: beyza7259@gmail.com
 - :star: Fun fact: I love coding and my favorite programming language is Java.
 
