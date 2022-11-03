@@ -16,4 +16,4 @@
 
 <img align=beside width=200 src="https://github.com/SenaYcdl/SenaYcdl/blob/main/65bcebd0e225bc8fb2ad79fff09523ee.gif" />
 
-<img align=center width=300 src="https://github.com/SenaYcdl/SenaYcdl/blob/main/3f11b653258af68f56efa1e944388c6a.gif" /><img align=beside width=300 src="https://github.com/SenaYcdl/SenaYcdl/blob/main/3f11b653258af68f56efa1e944388c6a.gif" />
+<img align=center width=305 src="https://github.com/SenaYcdl/SenaYcdl/blob/main/3f11b653258af68f56efa1e944388c6a.gif" /><img align=beside width=305 src="https://github.com/SenaYcdl/SenaYcdl/blob/main/3f11b653258af68f56efa1e944388c6a.gif" />
