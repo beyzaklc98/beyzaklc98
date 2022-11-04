@@ -9,7 +9,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beyzaklc98&show_icons=true&theme=omni)
 
-<img align=above width=120 src="https://github.com/SenaYcdl/SenaYcdl/blob/main/54b5b572a814ce721e1b01adabed5c84.gif" />
+<img align=above width=125 src="https://github.com/SenaYcdl/SenaYcdl/blob/main/54b5b572a814ce721e1b01adabed5c84.gif" />
 
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/78317220/190580600-edd928b9-0191-4b8a-b1f5-b74fd09a5df4.gif)
 
