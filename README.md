@@ -8,13 +8,13 @@
 - :star: Fun fact: I love coding and my favorite programming language is Java.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beyzaklc98&show_icons=true&theme=omni)
-<img align=above width=128 src="https://github.com/SenaYcdl/SenaYcdl/blob/main/54b5b572a814ce721e1b01adabed5c84.gif" />
+<img align=above width=129 src="https://github.com/SenaYcdl/SenaYcdl/blob/main/54b5b572a814ce721e1b01adabed5c84.gif" />
 
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/78317220/190580600-edd928b9-0191-4b8a-b1f5-b74fd09a5df4.gif)
 
 [![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/beyza-kilic-/)
 
-<img align=beside width=205 src="https://github.com/SenaYcdl/SenaYcdl/blob/main/65bcebd0e225bc8fb2ad79fff09523ee.gif" />
+<img align=beside width=206 src="https://github.com/SenaYcdl/SenaYcdl/blob/main/65bcebd0e225bc8fb2ad79fff09523ee.gif" />
 
-<img align=center width=305 src="https://github.com/SenaYcdl/SenaYcdl/blob/main/3f11b653258af68f56efa1e944388c6a.gif" /><img align=beside width=305 
+<img align=center width=306 src="https://github.com/SenaYcdl/SenaYcdl/blob/main/3f11b653258af68f56efa1e944388c6a.gif" /><img align=beside width=306 
                                                                                                                              src="https://github.com/SenaYcdl/SenaYcdl/blob/main/3f11b653258af68f56efa1e944388c6a.gif" />
